@@ -4,7 +4,7 @@ My name is Kranthi and I am a passionate software developer from India 🇮🇳
 
 You can find me on Social media at:
 
-<a href="https://twitter.com/krantlak" target="_blank">![Follow me on Twitter](https://img.shields.io/twitter/follow/krantlak?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge)</a> <a href="https://www.linkedin.com/in/kranthilakum" target="_blank">![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/2187039/kranthilakum" target="_blank">![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)</a>
+<a href="https://twitter.com/krantlak" target="_blank">![Follow me on Twitter](https://img.shields.io/twitter/follow/krantlak?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge)</a> <a href="https://www.linkedin.com/in/kranthilakum" target="_blank">![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/1509209/kranthilakum" target="_blank">![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)</a> <a href="https://www.instagram.com/krantlak/?hl=en" target="_blank">![Instagram](https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
 
 ## Favorite Languages, Libraries, and Frameworks
 
