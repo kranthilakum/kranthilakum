@@ -1,24 +1,77 @@
-## Hi there 👋
+<!-- Futuristic GitHub Profile for Kranthi 🚀 -->
+<h1 align="center">Hey there, I'm Kranthi 👋</h1>
+<h3 align="center">A Passionate Software Engineer from 🇮🇳 India | Building the Future, One Commit at a Time 💻</h3>
 
-My name is Kranthi and I am a passionate software engineer from India 🇮🇳
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+Web+%26+Mobile+Developer;Open+Source+Contributor+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀" alt="Typing SVG" />
+</p>
 
-You can find me on Social media at:
+---
 
-<a href="https://twitter.com/krantlak" target="_blank">![Follow me on Twitter](https://img.shields.io/badge/twitter-%234aa1eb.svg?label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge)</a> <a href="https://www.linkedin.com/in/kranthilakum" target="_blank">![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/1509209/kranthilakum" target="_blank">![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)</a> <a href="https://www.instagram.com/krantlak/?hl=en" target="_blank">![Instagram](https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
+### 🌎 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/krantlak" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kranthilakum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/1509209/kranthilakum" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.instagram.com/krantlak" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-### Favorite Languages, Libraries, and Frameworks
+---
 
-![HTML](https://img.shields.io/badge/html5-%23CC342D.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚙️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/gatsby%20-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white) ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) ![Node.js](https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
-### 🌱 I’m currently learning
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Rust](https://img.shields.io/badge/rust-%2300ADD8.svg?&style=for-the-badge&logo=scala&logoColor=white&color=red) ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+#### 🧠 Learning & Exploring
+![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔭 I’m currently working on
-![Java](https://img.shields.io/badge/java-%2300ADD8.svg?&style=for-the-badge&logo=java&logoColor=white&color=orange) ![Spring](https://img.shields.io/badge/spring-%2300ADD8.svg?&style=for-the-badge&logo=spring&logoColor=white&color=green)
+---
 
-<!--
-https://github.com/Ileriayo/markdown-badges
--->
+### 🧩 About Me
+- 🔭 Currently working on **Java + Spring-based backend systems**
+- 🌱 Exploring **Rust**, **AI-assisted development**, and **system design**
+- 💡 Passionate about **clean code**, **UI/UX craft**, and **developer experience**
+- 💬 Ask me about: **Web performance, React, TypeScript, and REST APIs**
+- ⚡ Fun fact: I still love solving **CSS layout challenges** 😄
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kranthilakum&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthilakum&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kranthilakum&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🧠 “Code is poetry written in logic.” — Kranthi
+<p align="center">
+  <img src="https://github.com/kranthilakum/kranthilakum/blob/main/assets/codepoetry.gif" alt="Coding Animation" width="500"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kranthilakum&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+</p>
