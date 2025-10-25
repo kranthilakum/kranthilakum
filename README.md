@@ -55,12 +55,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kranthilakum&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthilakum&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kranthilakum&show_icons=true&title_color=38B2AC&text_color=2E3440&icon_color=0A66C2&bg_color=f8f9fc&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kranthilakum&theme=vue&hide_border=true&background=f8f9fc&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=0A66C2&sideLabels=0A66C2" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kranthilakum&theme=react-dark&hide_border=true&area=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kranthilakum&bg_color=f8f9fc&color=0A66C2&line=38B2AC&point=0A66C2&area_color=cdeff1&hide_border=true" />
 </p>
 
 ---
